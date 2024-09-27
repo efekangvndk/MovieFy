@@ -9,6 +9,10 @@ import SwiftUI
 
 struct DetailScreen: View {
     var body: some View {
-        Text("Hello")
+        VStack{
+            Text("Image && Video")
+            Text("Label")
+            Text("IMDB Rate")
+        }
     }
 }
